@@ -1,0 +1,19 @@
+{
+  "name": "vue-crash-2022",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.21.0",
+    "vue": "^3.2.29"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.15",
+    "@vue/cli-service": "^4.5.15",
+    "@vue/compiler-sfc": "^3.2.29",
+    "vue-loader-v16": "^16.0.0-beta.5.4"
+  }
+}
